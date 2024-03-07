@@ -17,7 +17,7 @@ A fun and silly 2D platformer in which the player must collect diamonds in order
 * Character can jump
 * Animations for walking and jumping
 * Collect coins
-* Collect diamons
+* Collect diamonds
 
 ## References
 
